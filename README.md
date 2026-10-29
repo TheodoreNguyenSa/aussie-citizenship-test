@@ -1,16 +1,16 @@
-# Luyện Thi Quốc Tịch Úc v1.0.0 — Android TV
+# Luyện Thi Quốc Tịch Úc v1.1.0 — Android TV
 
 App luyện thi quốc tịch Úc cho TV, theo đúng sách chính thức
 *Australian Citizenship: Our Common Bond* (Department of Home Affairs).
-Ngân hàng **400 câu hỏi tiếng Anh** (đúng 100 câu cho mỗi phần thi được
+Ngân hàng **1.200 câu hỏi tiếng Anh** (đúng 300 câu cho mỗi phần thi được
 của sách), mỗi câu 4 lựa chọn, 1 đáp án đúng (vị trí đáp án đúng chia
-đều 25/25/25/25 cho A/B/C/D trong từng chủ đề), mỗi câu có **giải thích
+đều 75/75/75/75 cho A/B/C/D trong từng chủ đề), mỗi câu có **giải thích
 1–2 câu tiếng Anh đơn giản**. Giao diện song ngữ như bản duyệt: nhãn
 tiếng Việt, câu hỏi + đáp án + tên chủ đề tiếng Anh (thi thật chỉ có
 tiếng Anh). Chạy offline hoàn toàn.
 
 > App luyện tập, **không phải đề thi chính thức** và không liên kết với
-> Chính phủ Úc. Toàn bộ nội dung 400 câu xem tại `CONTENT.md`.
+> Chính phủ Úc. Toàn bộ nội dung 1.200 câu xem tại `CONTENT.md`.
 
 ## 4 chủ đề (đúng tên trong sách)
 
@@ -45,8 +45,7 @@ màn bắt đầu hiện "Kết quả thi thử gần nhất: …".
 ## Cài đặt
 
 - **GitHub:** https://github.com/TheodoreNguyenSa/aussie-citizenship-test
-  (repo sẽ tạo khi phát hành — app tự kiểm tra bản mới tại đây, repo
-  chưa có thì bỏ qua im lặng)
+  (app tự kiểm tra bản mới tại đây)
 - **Downloader:** 3299012
 - Hoặc chép file APK qua USB / Send Files to TV rồi cài.
 
@@ -86,4 +85,4 @@ màn bắt đầu hiện "Kết quả thi thử gần nhất: …".
   đang giữ chức vụ hiện tại, **không** hỏi số dân chính xác (khi cần thì
   dùng "approximately" với số tròn theo sách). Cùng một fact tối đa 2
   câu với góc hỏi khác hẳn nhau; không trùng text câu hỏi trong toàn
-  ngân hàng (đã kiểm tra bằng JVM test: 20.136 lượt kiểm tra, 0 lỗi).
+  ngân hàng (đã kiểm tra bằng JVM test: 31.336 lượt kiểm tra, 0 lỗi).
