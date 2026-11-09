@@ -1,16 +1,23 @@
-# Luyện Thi Quốc Tịch Úc v1.1.0 — Android TV
+# Luyện Thi Quốc Tịch Úc v1.2.0 — Android TV
 
 App luyện thi quốc tịch Úc cho TV, theo đúng sách chính thức
 *Australian Citizenship: Our Common Bond* (Department of Home Affairs).
-Ngân hàng **1.200 câu hỏi tiếng Anh** (đúng 300 câu cho mỗi phần thi được
-của sách), mỗi câu 4 lựa chọn, 1 đáp án đúng (vị trí đáp án đúng chia
-đều 75/75/75/75 cho A/B/C/D trong từng chủ đề), mỗi câu có **giải thích
-1–2 câu tiếng Anh đơn giản**. Giao diện song ngữ như bản duyệt: nhãn
-tiếng Việt, câu hỏi + đáp án + tên chủ đề tiếng Anh (thi thật chỉ có
-tiếng Anh). Chạy offline hoàn toàn.
+Ngân hàng **1.318 câu hỏi tiếng Anh** theo 4 phần thi được của sách
+(People 342, Beliefs 313, Government 337, Values 326), mỗi câu 4 lựa
+chọn, 1 đáp án đúng (vị trí đáp án đúng luân phiên đều A/B/C/D trong
+từng chủ đề), mỗi câu có **giải thích 1–2 câu tiếng Anh đơn giản**.
+Giao diện song ngữ như bản duyệt: nhãn tiếng Việt, câu hỏi + đáp án +
+tên chủ đề tiếng Anh (thi thật chỉ có tiếng Anh). Chạy offline
+hoàn toàn.
 
 > App luyện tập, **không phải đề thi chính thức** và không liên kết với
-> Chính phủ Úc. Toàn bộ nội dung 1.200 câu xem tại `CONTENT.md`.
+> Chính phủ Úc. Toàn bộ nội dung 1.318 câu xem tại `CONTENT.md`.
+
+**Mới ở v1.2.0 (09/11/2026):** thêm 118 câu hỏi sưu tập từ trang
+Facebook "Australia & Citizenship Practice Tests" và website luyện
+thi của chính trang đó (461 câu) — đáp án của từng câu đã được đối
+chiếu lại với sách *Our Common Bond* trước khi đưa vào; các câu
+trùng với ngân hàng sẵn có hoặc không kiểm chứng được đều đã loại.
 
 ## 4 chủ đề (đúng tên trong sách)
 
@@ -85,4 +92,4 @@ màn bắt đầu hiện "Kết quả thi thử gần nhất: …".
   đang giữ chức vụ hiện tại, **không** hỏi số dân chính xác (khi cần thì
   dùng "approximately" với số tròn theo sách). Cùng một fact tối đa 2
   câu với góc hỏi khác hẳn nhau; không trùng text câu hỏi trong toàn
-  ngân hàng (đã kiểm tra bằng JVM test: 31.336 lượt kiểm tra, 0 lỗi).
+  ngân hàng (đã kiểm tra bằng JVM test: 31.676 lượt kiểm tra, 0 lỗi).

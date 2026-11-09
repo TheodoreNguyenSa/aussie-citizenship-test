@@ -1,6 +1,6 @@
-# Luyện Thi Quốc Tịch Úc — full question bank (v1.1.0)
+# Luyện Thi Quốc Tịch Úc — full question bank (v1.2.0)
 
-1200 practice questions written from the testable content of the official booklet *Australian Citizenship: Our Common Bond* — 300 per topic. The correct answer is marked with ✓. This app is a study aid only and is not affiliated with the Australian Government.
+1318 practice questions written from the testable content of the official booklet *Australian Citizenship: Our Common Bond*. The correct answer is marked with ✓. This app is a study aid only and is not affiliated with the Australian Government.
 
 ## Topic 1: Australia and its people
 
@@ -2104,6 +2104,300 @@
 - D. Five ✓
 - *Explanation:* The Southern Cross on the flag has five stars: four with seven points and one smaller star with five points. The constellation can be seen throughout Australia all year round.
 
+**301. Australia's sense of national identity began to take shape at what time?**
+- A. Before Federation in 1901 ✓
+- B. Only after Federation in 1901
+- C. After the Second World War
+- D. In the 1970s, with the end of the White Australia policy
+- *Explanation:* A distinct Australian national identity was already developing in the late 1800s, in the years before the colonies federated in 1901.
+
+**302. Aboriginal peoples believe their connection to the land began at what time?**
+- A. When Europeans first arrived in 1788
+- B. At the beginning of time — the Dreaming ✓
+- C. About 250 years ago
+- D. At Federation in 1901
+- *Explanation:* Aboriginal spirituality centres on the Dreaming: the belief that their connection to the land goes back to the beginning of time.
+
+**303. Which term best describes Australia, a country where people of many backgrounds live together in unity?**
+- A. A colonial republic
+- B. A cultural mix with separate laws for each group
+- C. A successful multicultural society ✓
+- D. A unified nation with one single culture
+- *Explanation:* Australia is often described as one of the world's most successful multicultural societies, built on shared values and respect for many cultures.
+
+**304. Who may give a Welcome to Country at the start of a citizenship ceremony?**
+- A. The Governor-General
+- B. The local police commissioner
+- C. An Australian Defence Force officer
+- D. An Aboriginal or Torres Strait Islander representative ✓
+- *Explanation:* A citizenship ceremony may begin with a Welcome to Country given by an Aboriginal or Torres Strait Islander person, recognising the traditional owners of the land.
+
+**305. What is the nickname of the Sydney Harbour Bridge?**
+- A. The Coathanger ✓
+- B. The Iron Lady
+- C. The Steel Giant
+- D. The Harbour Arch
+- *Explanation:* The Sydney Harbour Bridge, opened in 1932, is affectionately nicknamed 'the Coathanger' because of its arched shape.
+
+**306. Margaret River, a well-known wine-growing region, is in which Australian state?**
+- A. South Australia
+- B. Western Australia ✓
+- C. New South Wales
+- D. Tasmania
+- *Explanation:* Margaret River is in the south-west of Western Australia, famous for its wines, surf beaches and limestone caves.
+
+**307. The Barossa Valley and the Flinders Ranges are well-known regions of which state?**
+- A. Victoria
+- B. Western Australia
+- C. South Australia ✓
+- D. Tasmania
+- *Explanation:* The Barossa Valley, one of Australia's oldest wine regions, and the Flinders Ranges are both in South Australia.
+
+**308. Which of the following can form part of a Welcome to Country ceremony?**
+- A. Only a written government certificate
+- B. Only a minute of silence
+- C. Only a formal vote of the audience
+- D. Songs, dances or speeches in a traditional language or English ✓
+- *Explanation:* A Welcome to Country can include songs, dances, performances or speeches, in a traditional language or in English.
+
+**309. The Great Barrier Reef lies off the coast of which Australian state?**
+- A. Queensland ✓
+- B. Western Australia
+- C. South Australia
+- D. Tasmania
+- *Explanation:* The Great Barrier Reef, the world's largest coral reef system, stretches along the coast of Queensland.
+
+**310. On the Australian National Flag, the Union Jack appears in the top left corner. What does it represent?**
+- A. The Torres Strait Islands
+- B. Australia's history of British settlement ✓
+- C. The six states of Australia
+- D. Australia's links with New Zealand
+- *Explanation:* The Union Jack in the upper left corner of the flag represents Australia's history as a British settlement and the institutions inherited from Britain.
+
+**311. What is the Commonwealth Coat of Arms used for?**
+- A. To mark Australia's national flower
+- B. As the design on the Australian passport cover only
+- C. To identify Commonwealth property and authority ✓
+- D. To identify the states' property
+- *Explanation:* The Commonwealth Coat of Arms is the official symbol of the Commonwealth of Australia, used to identify Commonwealth property and authority.
+
+**312. The Torres Strait Islander Flag is made up of which colours?**
+- A. Red, black and yellow
+- B. Green and gold
+- C. Blue, white and red
+- D. Green, blue, black and white ✓
+- *Explanation:* The Torres Strait Islander Flag has green for the land, blue for the sea, black for the people and white for the dhari headdress and the five-pointed star.
+
+**313. Before 1901, how was Australia organised?**
+- A. As six separate, self-governing British colonies ✓
+- B. As one united Australian nation
+- C. As a republic of independent states
+- D. As a single colony ruled from New Zealand
+- *Explanation:* Before federation in 1901, Australia was made up of six separate, self-governing British colonies.
+
+**314. What proportion of people living in Australia were born overseas?**
+- A. Less than five per cent
+- B. More than a quarter of them ✓
+- C. Exactly half of them
+- D. About two per cent
+- *Explanation:* More than a quarter of people living in Australia were born overseas; migrants have come from more than 200 countries.
+
+**315. What is the official symbol of the Commonwealth of Australia?**
+- A. The golden wattle
+- B. The Australian National Flag
+- C. The Commonwealth Coat of Arms ✓
+- D. The kangaroo and emu statues in Canberra
+- *Explanation:* The Commonwealth Coat of Arms is the official symbol of the Commonwealth of Australia; it identifies the authority and property of the Commonwealth.
+
+**316. To which colony did the British Government first transport convicts?**
+- A. Western Australia
+- B. South Australia
+- C. Victoria
+- D. New South Wales ✓
+- *Explanation:* The British Government first transported convicts to the colony of New South Wales, where the First Fleet arrived in 1788.
+
+**317. From which country did the first convict ships sail to Australia?**
+- A. Great Britain ✓
+- B. France
+- C. The Netherlands
+- D. Spain
+- *Explanation:* The First Fleet of convict ships sailed from Great Britain in 1787 and arrived at Sydney Cove in January 1788.
+
+**318. Which heritage has had a major influence on Australia?**
+- A. French and Spanish heritage
+- B. British and Irish heritage ✓
+- C. Chinese and Indian heritage
+- D. American and Canadian heritage
+- *Explanation:* British and Irish heritage has had a major influence on Australia, while many other cultures have also contributed.
+
+**319. Which of these statements about the Australian National Flag is correct?**
+- A. It is only flown on Australia Day
+- B. It was adopted in 2001
+- C. It is the official flag of our nation ✓
+- D. It may only be flown on government buildings
+- *Explanation:* The Australian National Flag is the official flag of our nation.
+
+**320. Which of these statements about state and territory flags is correct?**
+- A. Only the states have flags; the territories do not
+- B. All states share a single flag
+- C. States and territories use the Union Jack alone
+- D. Each state and territory has its own flag ✓
+- *Explanation:* Each state and territory of Australia has its own flag, in addition to the national flags.
+
+**321. Which of these statements about Western Australia is correct?**
+- A. The east is mostly desert, while the south-west is a rich agricultural and wine-growing area ✓
+- B. The whole state is covered by rainforest
+- C. The south-west is mostly desert
+- D. The east is a rich farming area and the coast is desert
+- *Explanation:* The booklet's Western Australia profile: the east of the state is mostly desert, while the south-west is a rich agricultural and wine-growing area.
+
+**322. Which culture is the oldest continuing culture in the world?**
+- A. Ancient Egyptian culture
+- B. Australia's Aboriginal culture ✓
+- C. Roman culture
+- D. Viking culture
+- *Explanation:* Aboriginal culture is the world's oldest continuing culture, with traditions and customs practised for tens of thousands of years.
+
+**323. Which of these statements about Australia today is correct?**
+- A. Australia has only one culture
+- B. Migrants must give up their own culture completely
+- C. Australia is a multicultural country ✓
+- D. Only British culture is recognised in Australia
+- *Explanation:* Australia is a multicultural country: people from around the world have migrated here and live together in harmony.
+
+**324. After the Second World War, why did many people from non-British countries migrate to Australia?**
+- A. To escape the Australian summer
+- B. To work only in the goldfields
+- C. To join the British Army
+- D. To build a new life ✓
+- *Explanation:* After the Second World War, many non-British migrants came to Australia to build a new life for themselves and their families.
+
+**325. What is the landscape like in the southern part of the Northern Territory?**
+- A. Red desert ✓
+- B. Tropical rainforest
+- C. Snow-covered mountains
+- D. Green farmland
+- *Explanation:* The Northern Territory has the tropics in the north and red desert soil in the south, around Alice Springs.
+
+**326. In area, Australia is which of these?**
+- A. The second largest country in the world
+- B. The sixth largest country in the world ✓
+- C. The largest country in the world
+- D. The tenth largest country in the world
+- *Explanation:* Australia is the world's sixth largest country and the world's largest island.
+
+**327. Which town is the main town near the centre of Australia?**
+- A. Darwin
+- B. Broome
+- C. Alice Springs ✓
+- D. Cairns
+- *Explanation:* Alice Springs is the main town near the centre of Australia, in the Northern Territory.
+
+**328. Who was the first Governor of the colony of New South Wales?**
+- A. Captain James Cook
+- B. Governor Lachlan Macquarie
+- C. Sir Henry Parkes
+- D. Captain Arthur Phillip ✓
+- *Explanation:* Captain Arthur Phillip commanded the First Fleet and became the first Governor of New South Wales; he worked to solve the problems of the settlement's first years.
+
+**329. Many fine buildings in which state were built from the wealth of the gold rush of the 1850s?**
+- A. Victoria ✓
+- B. Tasmania
+- C. South Australia
+- D. Western Australia
+- *Explanation:* Gold was discovered in Victoria in 1851; many fine buildings in Victoria were built from the wealth of the gold rush.
+
+**330. Which state is home to many large mining projects?**
+- A. Tasmania
+- B. Western Australia ✓
+- C. Victoria
+- D. The Australian Capital Territory
+- *Explanation:* The booklet's Western Australia profile notes the state's many large mining projects.
+
+**331. On the Australian Aboriginal Flag, what does the black colour in the top half represent?**
+- A. The night sky
+- B. The soil after a bushfire
+- C. The Aboriginal people of Australia ✓
+- D. The oceans around Australia
+- *Explanation:* On the Aboriginal Flag, black represents the Aboriginal people, red represents the earth and yellow represents the sun.
+
+**332. Why did the six colonies agree to unite into one nation?**
+- A. Britain ordered them to unite or face invasion
+- B. The colonies wanted to become a republic immediately
+- C. A single colony had run out of land
+- D. Cross-border law enforcement was difficult, and trade and transport between colonies were slow and costly ✓
+- *Explanation:* Colonial borders made law enforcement difficult and trade and transport slow and costly; uniting as one nation helped solve these problems.
+
+**333. Aboriginal and Torres Strait Islander peoples express their deep connection to the land in their stories, art and what else?**
+- A. Dance ✓
+- B. Written constitutions
+- C. National anthems
+- D. Currency designs
+- *Explanation:* Their deep spiritual connection to the land is expressed in stories, art and dance passed down through generations.
+
+**334. Which state has a rugged coastline and many famous wine regions?**
+- A. Queensland
+- B. South Australia ✓
+- C. New South Wales
+- D. Tasmania
+- *Explanation:* The booklet's South Australia profile describes its rugged coastline and famous wine regions such as the Barossa Valley.
+
+**335. Which of these statements about Tasmania is correct?**
+- A. Most of the island is desert
+- B. The island has no wilderness areas
+- C. Much of the island has unspoilt wilderness landscapes ✓
+- D. It is Australia's largest state
+- *Explanation:* Much of Tasmania has unspoilt wilderness landscapes; it is Australia's smallest state.
+
+**336. Which of these statements about Australia Day is correct?**
+- A. It is a public holiday only in New South Wales
+- B. It is not a public holiday anywhere
+- C. It is a public holiday only every second year
+- D. It is a public holiday in every state and territory ✓
+- *Explanation:* Australia Day, 26 January, is a public holiday in all states and territories.
+
+**337. In which part of Australia does the golden wattle grow mainly?**
+- A. South-eastern Australia ✓
+- B. The far north tropics
+- C. The central desert only
+- D. Western Australia only
+- *Explanation:* The golden wattle, Australia's national flower, grows mainly in south-eastern Australia.
+
+**338. When did the separate colonies unite to form the Commonwealth of Australia?**
+- A. 26 January 1788
+- B. 1 January 1901 ✓
+- C. 25 April 1915
+- D. 1 January 2001
+- *Explanation:* On 1 January 1901 the colonies united into a federation of states called the Commonwealth of Australia.
+
+**339. Which of these statements about Anzac Day is correct?**
+- A. Anzac Day is not a public holiday
+- B. Anzac Day is held on 11 November
+- C. Anzac Day, 25 April, is a national public holiday ✓
+- D. Anzac Day is celebrated only in New Zealand
+- *Explanation:* Anzac Day, 25 April, is a national public holiday when Australians remember those who served and died in wars, conflicts and peacekeeping operations.
+
+**340. Which of these statements about Aboriginal people is correct?**
+- A. Aboriginal people came from Africa in the 1800s
+- B. Aboriginal people arrived with the First Fleet
+- C. Aboriginal people are recent migrants to Australia
+- D. Aboriginal people are from mainland Australia and Tasmania ✓
+- *Explanation:* Aboriginal people are the first inhabitants of Australia, from mainland Australia and Tasmania, with a history stretching back tens of thousands of years.
+
+**341. What is the Southern Cross on the Australian National Flag?**
+- A. A constellation of stars visible in the southern sky ✓
+- B. The six states of Australia
+- C. The states and two territories of Australia
+- D. Stars honouring soldiers who died in war
+- *Explanation:* The Southern Cross is a constellation of stars visible in the southern sky; it appears on the Australian National Flag together with the Union Jack and the Commonwealth Star.
+
+**342. Which of these statements about an Acknowledgement of Country is correct?**
+- A. Only Traditional Owners may deliver an Acknowledgement of Country
+- B. Anyone can deliver an Acknowledgement of Country to show respect for the Traditional Owners ✓
+- C. Only government officials may deliver one
+- D. An Acknowledgement of Country can only be delivered in writing
+- *Explanation:* An Acknowledgement of Country can be delivered by anyone to show respect for the Traditional Owners of the land; a Welcome to Country, by contrast, is delivered by Traditional Owners or Elders.
+
 ## Topic 2: Australia's democratic beliefs, rights and liberties
 
 **1. Australia's system of government is best described as what?**
@@ -4205,6 +4499,97 @@
 - C. That rights apply only to new citizens
 - D. The heart of Australian democracy — equal rights and mutual respect for all ✓
 - *Explanation:* Australian democracy joins rights with respect: everyone's freedoms are protected, and everyone is expected to honour the freedoms of others.
+
+**301. If English is not their native language, what must people applying for Australian citizenship do?**
+- A. Make reasonable efforts to learn the English language ✓
+- B. Take an English course before they may apply
+- C. Speak only English in public
+- D. Pass an advanced English proficiency test
+- *Explanation:* English is Australia's national language. People applying for citizenship are expected to make reasonable efforts to learn it, because a shared language helps everyone take part in the community.
+
+**302. What does Australian citizenship represent?**
+- A. A temporary visa that lets you work in Australia
+- B. A commitment to Australia and its people, and a share in its rights and responsibilities ✓
+- C. A membership you can buy from the government
+- D. A title given only to people born in Australia
+- *Explanation:* Citizenship is a commitment to Australia, its people and its values — it brings both rights, like voting, and responsibilities, like obeying the law.
+
+**303. Which of these statements about service in the Australian Defence Force is correct?**
+- A. Every citizen must serve for two years
+- B. Only men may serve in the Defence Force
+- C. Service in the Defence Force is voluntary ✓
+- D. Citizens are conscripted at age 18
+- *Explanation:* Service in the Australian Defence Force is voluntary; there is no conscription in Australia.
+
+**304. Which of these statements about religious rules in Australia is correct?**
+- A. All religious rules are also Australian laws
+- B. Religious rules override Australian law
+- C. Only Christian rules have legal force
+- D. Religious rules are not laws in Australia ✓
+- *Explanation:* In Australia there is no official national religion; the rules of a religion are not the laws of the land.
+
+**305. Freedom of expression in Australia includes expressing your views through which of these?**
+- A. Art, film, music and literature, as well as speech ✓
+- B. Speech only, never through the media
+- C. Only writing in newspapers
+- D. Only in private, never in public
+- *Explanation:* People can express their views through art, film, music and literature; freedom of expression is not limited to spoken words.
+
+**306. Which of these statements about women's choices in Australia is correct?**
+- A. Women need a male guardian's permission to marry
+- B. Women have the right to make their own independent decisions about personal matters ✓
+- C. Women may not make independent decisions
+- D. Women's decisions must follow their husband's wishes
+- *Explanation:* In Australia, men and women have equal rights, including the right to make their own independent choices about personal matters such as marriage.
+
+**307. Which of these statements about protection under the law is correct?**
+- A. Only citizens born in Australia are protected by the law
+- B. The law protects only government officials
+- C. All Australians have the right to be protected by Australia's laws ✓
+- D. Visitors are protected by the law but citizens are not
+- *Explanation:* All Australians have the right to be protected by Australia's laws and legal systems.
+
+**308. How do Australians believe change should happen in society?**
+- A. Through violent protest
+- B. Through military action
+- C. Through orders from religious leaders
+- D. Through discussion, peaceful persuasion and the democratic process ✓
+- *Explanation:* Australians believe that change should occur through discussion, peaceful persuasion and the democratic process.
+
+**309. Which of these statements about Australian democracy is correct?**
+- A. Australian citizens are involved in how the country is governed ✓
+- B. Citizens play no part in governing the country
+- C. Only the Prime Minister governs the country
+- D. Citizens may be involved only once every ten years
+- *Explanation:* In Australia's democracy, citizens are involved in how the country is governed, including by voting in elections.
+
+**310. In Australia, people are free to meet in public or private places for what?**
+- A. Planning criminal activity
+- B. Social or political discussion ✓
+- C. Secret military training
+- D. Nothing - meeting in groups is banned
+- *Explanation:* Freedom of association means people are free to meet in public or private places for social or political discussion.
+
+**311. Freedom of association in Australia includes the freedom to do what?**
+- A. Gather to plan violence against others
+- B. Stop other people from meeting
+- C. Gather to protest against a government action or an organisation ✓
+- D. Meet only with government permission
+- *Explanation:* People can gather freely with others within the law, including to protest against a government action or an organisation.
+
+**312. Which of these statements about joining organisations is correct?**
+- A. Everyone must join a political party
+- B. Unions can force anyone to become a member
+- C. Citizens must join a community organisation
+- D. No one can be compelled to join an organisation or forced to leave one ✓
+- *Explanation:* Freedom of association means individuals cannot be compelled to join an organisation or forced to leave it.
+
+**313. Which of these statements about media freedom in Australia is correct?**
+- A. Newspapers, television and radio have the same freedom as the people ✓
+- B. Media outlets have no freedom at all
+- C. Only newspapers have freedom; television does not
+- D. Media freedom ended with the internet
+- *Explanation:* In Australia, newspapers, television and radio outlets have the same freedom as the people to express views within the law.
 
 ## Topic 3: Government and the law in Australia
 
@@ -6308,6 +6693,265 @@
 - D. Three levels of elected government share power under the Constitution, and independent courts interpret the law ✓
 - *Explanation:* Australia is a federation and a parliamentary democracy: three levels of government share power, and the courts are independent.
 
+**301. What is the role of the courts in Australia?**
+- A. To interpret the law and settle disputes fairly and independently ✓
+- B. To make new laws for Parliament
+- C. To decide who becomes Prime Minister
+- D. To collect taxes on behalf of the government
+- *Explanation:* Courts are independent of the government. They interpret the law and settle disputes, and their decisions must be obeyed.
+
+**302. A police officer makes a lawful request of you. What are you expected to do?**
+- A. Ignore it if you disagree with it
+- B. Obey the request ✓
+- C. Refuse to cooperate in every situation
+- D. Follow it only if other people do
+- *Explanation:* Police protect the community and enforce the law. Everyone must obey the law, and a lawful request from the police should be obeyed.
+
+**303. Which statement best describes the legal responsibilities of Australian citizens when they travel or live overseas?**
+- A. Citizens must follow only the laws of the country they are visiting
+- B. Citizens with dual nationality are exempt from Australian laws overseas
+- C. Certain Australian laws, including laws about child protection and serious offences, may apply to citizens overseas ✓
+- D. Australian laws apply only inside Australia's borders, without exception
+- *Explanation:* Most Australian laws apply inside Australia, but some laws — for example those against child sexual offences and other serious crimes — apply to Australian citizens even when they are overseas.
+
+**304. To pass the Australian citizenship test, what must you answer correctly?**
+- A. All 20 questions
+- B. At least 10 of the 20 questions
+- C. Only the questions about Australian history
+- D. At least 15 of the 20 questions, including all 5 questions on Australian values ✓
+- *Explanation:* The test has 20 questions. You must get at least 15 right, and you must answer all five Australian values questions correctly.
+
+**305. Which of these statements about children of Australian citizens born overseas is correct?**
+- A. They can enjoy the same rights and responsibilities of citizenship as children born in Australia ✓
+- B. They can never become Australian citizens
+- C. They have fewer rights than children born in Australia
+- D. They must wait until age 25 to have any rights
+- *Explanation:* Children of Australian citizens born overseas can be registered as citizens by descent and enjoy the same rights and responsibilities of citizenship.
+
+**306. Which of these is a road rule in Australia?**
+- A. Only the driver must wear a seat belt
+- B. Everybody travelling in a car must wear a seat belt ✓
+- C. Seat belts are optional on short trips
+- D. Children never need to wear seat belts
+- *Explanation:* Australian road rules state that everybody travelling in a car must wear a seat belt.
+
+**307. Which of these statements about babies and young children in cars is correct?**
+- A. They may sit on an adult's lap instead
+- B. They need no restraint under the age of five
+- C. They must be in an approved child seat ✓
+- D. They are allowed to stand while the car moves
+- *Explanation:* Babies and young children must be in an approved child seat when travelling in a car.
+
+**308. Who has the right to be represented by a lawyer in court in Australia?**
+- A. Only Australian citizens
+- B. Only people who can pay full fees
+- C. Only the person bringing the case
+- D. Everyone ✓
+- *Explanation:* In Australia, everyone has the right to be represented by a lawyer in court; legal aid can help those who cannot afford one.
+
+**309. Which of these statements about police powers is correct?**
+- A. Police can arrest a person they believe has broken the law ✓
+- B. Police can never arrest anyone
+- C. Police may arrest only with the suspect's permission
+- D. Only courts can arrest suspects
+- *Explanation:* The police maintain law and order and can arrest a person they believe has broken the law.
+
+**310. Which of these statements about police forces is correct?**
+- A. There is only one police force for the whole country
+- B. Each state and the Northern Territory has its own police force ✓
+- C. Local councils run the police
+- D. The army provides all policing in Australia
+- *Explanation:* Australia has a national police force, the Australian Federal Police, and each state and the Northern Territory has its own police force.
+
+**311. If you want to own or use a gun in Australia, what must you have?**
+- A. Permission from your local council
+- B. A letter from your employer
+- C. A licence, obtained from the police ✓
+- D. Nothing - guns are unrestricted
+- *Explanation:* In Australia you must have a licence to own or use a gun; gun licences are obtained from the police.
+
+**312. What is the purpose of jury service in Australia?**
+- A. To save judges from having to work
+- B. To punish people before their trial
+- C. To replace the police in court
+- D. To make sure the court system is open and fair ✓
+- *Explanation:* Jury service helps make sure the court system is open and fair; juries decide the facts in serious court cases.
+
+**313. Who proposes new laws or changes to existing laws in the Australian Parliament?**
+- A. Members of Parliament ✓
+- B. Judges of the High Court
+- C. The Governor-General
+- D. State premiers
+- *Explanation:* New laws, called Bills, are proposed (introduced) by members of the Australian Parliament.
+
+**314. Which of the following is among the most serious crimes in Australia?**
+- A. Littering in a public place
+- B. Fraud ✓
+- C. Jaywalking across an empty street
+- D. Playing loud music at home
+- *Explanation:* The booklet lists murder, assault, sexual assault, armed robbery, dangerous driving, possession and use of illegal drugs, and fraud among the most serious crimes in Australia.
+
+**315. Who appoints the Administrator of the Northern Territory?**
+- A. The Prime Minister alone
+- B. The Chief Minister of the Northern Territory
+- C. The Governor-General ✓
+- D. The Chief Justice
+- *Explanation:* The Administrator of the Northern Territory is appointed by the Governor-General and represents the Crown, in a role like that of a state Governor.
+
+**316. Which of these statements about state and territory governments is correct?**
+- A. They are all based in Canberra
+- B. They have no capital cities
+- C. They meet only in Sydney
+- D. They are based in their capital cities ✓
+- *Explanation:* State and territory governments are based in their capital cities.
+
+**317. The Administrator of the Northern Territory is the equivalent of which state office?**
+- A. The state Governor ✓
+- B. The state Premier
+- C. The state Chief Justice
+- D. The state Police Commissioner
+- *Explanation:* The Administrator performs a role in the Northern Territory similar to that of a Governor in a state.
+
+**318. Many of the benefits and services Australians enjoy are made possible through what?**
+- A. Donations from overseas
+- B. Taxes ✓
+- C. Lottery tickets
+- D. Fees charged only to tourists
+- *Explanation:* Through taxes, Australians share the cost of benefits and services such as health care, education and social security.
+
+**319. Which of these statements about state governments is correct?**
+- A. State governments operate completely differently
+- B. State governments have no parliaments
+- C. State governments operate in a similar way to the Australian Government ✓
+- D. State governments are run by the military
+- *Explanation:* State governments operate in a similar way to the Australian Government, with their own parliaments and premiers.
+
+**320. What must you have to drive a car in Australia?**
+- A. Only a passport
+- B. A letter from a driving school
+- C. Nothing at all
+- D. A local driver's licence, and the car must be registered ✓
+- *Explanation:* To drive in Australia you must have a local driver's licence and your car must be registered.
+
+**321. Which of these statements about mobile phones and driving is correct?**
+- A. It is illegal to use a hand-held mobile phone while driving ✓
+- B. It is legal while stopped at red lights
+- C. It is legal if you drive slowly
+- D. It is legal for experienced drivers
+- *Explanation:* In Australia it is illegal to use a hand-held mobile phone while driving.
+
+**322. What is the place where legal cases are heard by a judge or magistrate called?**
+- A. A parliament house
+- B. A court ✓
+- C. A police station
+- D. A registry office
+- *Explanation:* A court is the place where legal cases are heard by a judge or magistrate.
+
+**323. What is a court hearing of the facts to decide whether a person is guilty or not guilty called?**
+- A. A sentencing
+- B. An appeal hearing
+- C. A criminal trial ✓
+- D. A royal commission
+- *Explanation:* A criminal trial is the hearing of facts by a court to decide if a person is guilty or not guilty of an alleged crime.
+
+**324. What is the event called in which citizens choose a person to represent them in parliament?**
+- A. A census
+- B. A coronation
+- C. A by-law
+- D. An election ✓
+- *Explanation:* An election is the event in which citizens choose people to represent them in parliament.
+
+**325. What is the list of people entitled to vote in an election or referendum called?**
+- A. The electoral roll ✓
+- B. The census list
+- C. The jury roll
+- D. The tax file register
+- *Explanation:* The electoral roll is the list of people entitled to vote; citizens must enrol to be on it.
+
+**326. Making sure that people follow the law is called what?**
+- A. Making the law
+- B. Enforcing the law ✓
+- C. Interpreting the law
+- D. Repealing the law
+- *Explanation:* Enforcing the law means making sure people follow it; this is mainly the role of the police.
+
+**327. Which power of government administers (puts into practice) the laws?**
+- A. Legislative power
+- B. Judicial power
+- C. Executive power ✓
+- D. Royal power
+- *Explanation:* Under the separation of powers, the executive administers the laws, parliament makes them and the judiciary interprets them.
+
+**328. What is a judge of a lower court called?**
+- A. A registrar
+- B. A prosecutor
+- C. A barrister
+- D. A magistrate ✓
+- *Explanation:* A magistrate is a judge of a lower court.
+
+**329. Giving government pensions or benefits to people in need, such as the unemployed, disabled and elderly, is called what?**
+- A. Social security ✓
+- B. Taxation
+- C. Superannuation
+- D. Medicare
+- *Explanation:* Social security is the system of government pensions and benefits that help people in need.
+
+**330. Who is responsible for collecting taxes in Australia?**
+- A. The Reserve Bank of Australia
+- B. The Australian Taxation Office (ATO) ✓
+- C. Local councils
+- D. The Australian Electoral Commission
+- *Explanation:* The Australian Taxation Office (ATO) administers and collects taxes for the Australian Government.
+
+**331. Which of these statements about juries is correct?**
+- A. Jurors are professional lawyers
+- B. Jurors are chosen by the accused person
+- C. A jury is a group of ordinary people randomly chosen from the general population ✓
+- D. Jurors must all be over 60 years old
+- *Explanation:* A jury is a group of ordinary people, randomly chosen from the general population, who decide the facts in a serious court case.
+
+**332. The number of members of the House of Representatives for each state and territory is based on what?**
+- A. The size of its land area
+- B. How long it has been a state
+- C. The wealth of its economy
+- D. The size of its population ✓
+- *Explanation:* Each state and territory's number of members in the House of Representatives is based on the size of its population.
+
+**333. If you have a concern about a government matter, who can you raise it with?**
+- A. Your local member of Parliament ✓
+- B. The Governor-General in person
+- C. The High Court
+- D. No one - citizens cannot raise concerns
+- *Explanation:* Citizens can raise their concerns with their local member of parliament, who represents them.
+
+**334. Can an Australian citizen also hold the citizenship of another country?**
+- A. No, never
+- B. Yes, if the other country's laws allow it ✓
+- C. Only if they were born overseas
+- D. Only with the King's permission
+- *Explanation:* An Australian citizen may also be a citizen of another country (dual citizenship) if that country's laws allow it.
+
+**335. Which of these statements about dual citizens in Australia is correct?**
+- A. A dual citizen may choose which country's laws to follow
+- B. A dual citizen is exempt from Australian tax
+- C. A dual citizen in Australia must follow all Australian laws at all times ✓
+- D. A dual citizen cannot vote in Australia
+- *Explanation:* Even if a person is also a citizen of another country, while in Australia they must follow all Australian laws at all times.
+
+**336. What is another name for the Australian Government?**
+- A. The National Assembly
+- B. The United Government
+- C. The Royal Government
+- D. The Commonwealth Government (or Federal Government) ✓
+- *Explanation:* The Australian Government is also called the Commonwealth Government or the Federal Government.
+
+**337. What is the maximum term of the House of Representatives before an election must be held?**
+- A. Three years ✓
+- B. Two years
+- C. Four years
+- D. Five years
+- *Explanation:* Elections for the House of Representatives must be held at least every three years; the House has a maximum term of three years.
+
 ## Topic 4: Australian values
 
 **1. Which set of values is at the heart of Australian society?**
@@ -8409,3 +9053,185 @@
 - C. Only the council's responsibility
 - D. Australian values in action — everyone is welcomed, respected and given a fair go to belong ✓
 - *Explanation:* Belonging grows when communities open their doors. Freedom, respect, fairness and compassion sum up the Australian welcome.
+
+**301. What should a person do if they know that a child is being abused in Australia?**
+- A. Report it to the police for investigation ✓
+- B. Report it to the child's school and leave it there
+- C. Discuss it with neighbours
+- D. Wait until there is clear evidence of abuse
+- *Explanation:* Protecting children is everyone's responsibility. Suspected child abuse should be reported to the police, who can investigate and keep the child safe.
+
+**302. To whom should people in Australia report a neighbour they suspect of planning a serious crime?**
+- A. Local community leaders
+- B. Australian government authorities ✓
+- C. The neighbourhood association
+- D. Local media organisations
+- *Explanation:* Suspected serious crime is a matter for the authorities. Reporting it to Australian government authorities helps keep the whole community safe.
+
+**303. What is expected of people living in Australia, when they are able, regarding supporting themselves and their families?**
+- A. To rely entirely on government assistance
+- B. To depend on community organisations for all their needs
+- C. To contribute to society and support themselves and their families ✓
+- D. To put personal interests ahead of community responsibilities
+- *Explanation:* Australians are expected to contribute to society and, when they are able, to support themselves and their families rather than depend on others.
+
+**304. Which two forms of abuse are never acceptable in Australian society?**
+- A. Cultural and educational differences
+- B. Political disagreement and debate
+- C. Differences in personal opinions and beliefs
+- D. Verbal abuse and physical abuse ✓
+- *Explanation:* Abuse in any form — verbal or physical — is against Australian values of respect and is never acceptable.
+
+**305. Which of the following should NOT prevent a person from getting a job in Australia?**
+- A. Their gender, wealth or ethnicity ✓
+- B. Their unwillingness to work hard
+- C. A lack of relevant skills and experience
+- D. A lack of qualifications for the position
+- *Explanation:* Jobs should be decided on merit — skills, experience and qualifications. A person's gender, wealth or ethnic background must never count against them.
+
+**306. What is the collective term for online stalking, racial abuse, or sharing sexual photos of someone without their consent?**
+- A. Digital communication
+- B. Cyber abuse (online abuse) ✓
+- C. Online entertainment
+- D. Internet privacy
+- *Explanation:* This behaviour is called cyber abuse or online abuse. It is harmful, against Australian values of respect, and some forms of it are crimes.
+
+**307. At the citizenship ceremony, to whom do new citizens pledge their loyalty?**
+- A. The Prime Minister
+- B. The British monarch alone
+- C. Australia and its people ✓
+- D. Their state premier
+- *Explanation:* In the citizenship pledge, new citizens pledge their loyalty to Australia and its people.
+
+**308. Which of these statements reflects Australian values?**
+- A. Violence is acceptable to change a law
+- B. Violence is a normal part of debate
+- C. Violence is allowed against people we disagree with
+- D. We reject violence as a way to change a person's mind or the law ✓
+- *Explanation:* Australian values reject violence as a way to change a person's mind or the law; change happens peacefully and democratically.
+
+**309. Which of these statements reflects Australian values about respect?**
+- A. People should treat each other with dignity and respect regardless of race, origin, gender or religion ✓
+- B. People should treat others according to their race
+- C. Respect is owed only to people of the same religion
+- D. A person's gender decides how they should be treated
+- *Explanation:* In Australia, everyone should be treated with dignity and respect regardless of their race, country of origin, gender or religion.
+
+**310. Because of the spirit of mateship, many people help others through what?**
+- A. Paid advertising
+- B. Voluntary community work ✓
+- C. Compulsory military service
+- D. Political campaigning
+- *Explanation:* The spirit of mateship means many individuals and groups help others through voluntary community work.
+
+**311. Which of these statements about discrimination is correct?**
+- A. Gender discrimination is legal in Australia
+- B. Employers may freely discriminate against workers
+- C. It is against the law to discriminate against a person because of their gender ✓
+- D. Discrimination is allowed in private businesses
+- *Explanation:* Australian laws protect people from discrimination, including discrimination because of their gender.
+
+**312. Which of these statements about religious discrimination is correct?**
+- A. Religious discrimination is acceptable in Australia
+- B. Only some religions are protected from discrimination
+- C. Discrimination is fine outside the workplace
+- D. It is not acceptable to discriminate against people whose religion is different from yours ✓
+- *Explanation:* In Australia it is unacceptable and against the law to discriminate against a person because of their religion.
+
+**313. Which of these statements reflects Australian values about tolerance?**
+- A. Religious intolerance is not acceptable in Australian society ✓
+- B. Religious intolerance is acceptable
+- C. Only one religion deserves tolerance
+- D. Tolerance is not an Australian value
+- *Explanation:* Mutual respect and tolerance are Australian values; religious intolerance is not acceptable in Australian society.
+
+**314. Australian society values the equal rights of all people, regardless of what?**
+- A. Their gender or sexual orientation only
+- B. All of these: gender, sexual orientation, age, disability, religion, race and ethnic origin ✓
+- C. Their age, disability or religion only
+- D. Their race or ethnic origin only
+- *Explanation:* Australian society values the equal rights of all people regardless of gender, sexual orientation, age, disability, religion, race or national or ethnic origin.
+
+**315. Which of these statements about divorce in Australia is correct?**
+- A. Only the husband may apply for a divorce
+- B. Both spouses must always agree before a divorce
+- C. Either a husband or a wife may apply to the courts for a divorce, even if the other spouse wants to continue the marriage ✓
+- D. Divorce is not legal in Australia
+- *Explanation:* In Australia, either spouse may apply to the courts for a divorce, even if the other spouse wishes to continue the marriage.
+
+**316. Australia has a strong tradition of what, in looking out for each other and strengthening the community?**
+- A. Military service
+- B. Political party membership
+- C. Paying fines on time
+- D. Community service and volunteering ✓
+- *Explanation:* Australia has a strong tradition of community service and volunteering - people look out for each other and strengthen the community.
+
+**317. Which principles are part of Australian values?**
+- A. Mutual respect and tolerance ✓
+- B. Obedience and silence
+- C. Wealth and status
+- D. Suspicion of newcomers
+- *Explanation:* Australian values include mutual respect and tolerance of others, together with freedom, fairness and equality of opportunity.
+
+**318. What gives you the opportunity to fully participate in Australia's life and community?**
+- A. A driver's licence
+- B. Citizenship ✓
+- C. Owning property
+- D. A university degree
+- *Explanation:* Australian citizenship gives you the opportunity to fully participate in our nation's life and community.
+
+**319. Which of the following is an example of online (cyber) abuse?**
+- A. Stalking a person online only
+- B. Sharing someone's intimate photos without consent only
+- C. All of these: stalking a person online, sharing intimate images without consent, racially abusive comments online ✓
+- D. Making racially abusive comments online only
+- *Explanation:* Online abuse includes stalking a person online, sharing intimate images without consent and racially abusive comments; it is against Australian values and some forms of it are crimes.
+
+**320. Which of the following is an example of mateship?**
+- A. Taking a meal to an elderly neighbour only
+- B. Driving a friend to a medical appointment only
+- C. Visiting someone who is sick, frail or lonely only
+- D. All of these: a meal for an elderly neighbour, driving a friend to a medical appointment, visiting someone sick or lonely ✓
+- *Explanation:* Mateship means helping others in need - for example taking a meal to an elderly neighbour, driving a friend to a medical appointment, or visiting someone who is sick, frail or lonely.
+
+**321. Which of these statements about women and work is correct?**
+- A. Women have equal opportunity to pursue goals and interests in any industry, including male-dominated industries ✓
+- B. Women are not permitted in male-dominated industries
+- C. Women need special permission to work in mining
+- D. Women may work only in certain industries
+- *Explanation:* Men and women have equal opportunities to pursue their goals and interests in any industry.
+
+**322. Is it acceptable to hit your spouse or partner if you think they are at fault?**
+- A. Yes, if they are at fault
+- B. No - it is a criminal offence in Australia ✓
+- C. Yes, if your religion permits it
+- D. Yes, as a warning only
+- *Explanation:* Physical violence against a spouse or partner is never acceptable; it is a criminal offence in Australia.
+
+**323. Which of the following undermines Australia's interests and security?**
+- A. Welcoming new migrants to Australia
+- B. Learning a community language
+- C. Promoting distrust in and fear of an ethnic community ✓
+- D. Celebrating cultural festivals
+- *Explanation:* Promoting distrust and fear of an ethnic community undermines Australia's interests and security; loyalty to Australia is an Australian value.
+
+**324. During the 2019-20 bushfires, how did members of Victoria's Chinese, Vietnamese and Cambodian communities show Australian values?**
+- A. They protested against firefighters
+- B. They left Victoria until the fires ended
+- C. They sold food at high prices to victims
+- D. They collected donations and fundraised for fire-affected communities ✓
+- *Explanation:* During the 2019-20 bushfires, members of the Chinese, Vietnamese and Cambodian communities in Victoria collected donations and fundraised - an example of Australian values in action.
+
+**325. What is a person who gives their time to a person or organisation without expecting payment called?**
+- A. A volunteer ✓
+- B. An intern
+- C. A contractor
+- D. A member of parliament
+- *Explanation:* A volunteer gives their time to help a person or organisation without expecting payment.
+
+**326. What are the principles that help a person decide what is right and wrong, and how to act, called?**
+- A. By-laws
+- B. Values ✓
+- C. Etiquette
+- D. Customs
+- *Explanation:* Values are the principles that help a person decide what is right and wrong and how to act in various situations.
