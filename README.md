@@ -53,7 +53,7 @@ màn bắt đầu hiện "Kết quả thi thử gần nhất: …".
 
 - **GitHub:** https://github.com/TheodoreNguyenSa/aussie-citizenship-test
   (app tự kiểm tra bản mới tại đây)
-- **Downloader:** 3727860
+- **Downloader:** 9916709
 - Hoặc chép file APK qua USB / Send Files to TV rồi cài.
 
 ## Điều khiển (remote TV)
