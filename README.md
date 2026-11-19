@@ -1,4 +1,4 @@
-# Luyện Thi Quốc Tịch Úc v1.2.0 — Android TV
+# Luyện Thi Quốc Tịch Úc v1.2.1 — Android TV
 
 App luyện thi quốc tịch Úc cho TV, theo đúng sách chính thức
 *Australian Citizenship: Our Common Bond* (Department of Home Affairs).
@@ -53,7 +53,7 @@ màn bắt đầu hiện "Kết quả thi thử gần nhất: …".
 
 - **GitHub:** https://github.com/TheodoreNguyenSa/aussie-citizenship-test
   (app tự kiểm tra bản mới tại đây)
-- **Downloader:** 9916709
+- **Downloader:** 9886357
 - Hoặc chép file APK qua USB / Send Files to TV rồi cài.
 
 ## Điều khiển (remote TV)
